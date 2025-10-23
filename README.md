@@ -1,1 +1,1 @@
-# 01-Openspace_organizer-
+# challenge-openspace-classifier
